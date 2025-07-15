@@ -28,7 +28,7 @@ o	Total Cities Covered: 531
 •	Excel Formulas (SUMIFS, COUNTIFS, etc.)
 
 ## 📌 Purpose
-This dashboard project was developed as part of a hands-on exercise to:
+This dashboard project was developed as part of a hands-on exercise to:<br>
 •	Improve Excel data visualization and dashboarding skills. <br>
 •	Demonstrate ability to translate raw data into actionable business insights. <br>
 •	Prepare for real-world reporting tasks in accounting, business analysis, and financial management roles.
